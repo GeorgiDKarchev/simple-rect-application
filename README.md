@@ -1,3 +1,20 @@
+/////           Movie search application.             /////////////
+
+
+                Used  useEffect React hook.
+         Implemented the lifting state pattern in React.
+           Bind React components to user input elements.
+      Maked external API requests within a React application.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
