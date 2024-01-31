@@ -28,10 +28,11 @@ function App() {
 
 
   //We pass the getMovie function as a prop called moviesearch
+  //We pass movie as props to movie display
   return (
     <div className="App">
       <Form moviesearch={getMovie}/>
-      <MovieDisplay />
+      <MovieDisplay  movie={movie}/>
     </div>
   );
 }
