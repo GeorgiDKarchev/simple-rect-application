@@ -20,7 +20,7 @@ export default function Form(props){
 
     return (
       <div>
-        <h1>The Form Component</h1>;
+        <h1>Movie search</h1>;
         <form onSubmit={handleSubmit}>
             <input
              type ="text" 
